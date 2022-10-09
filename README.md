@@ -4,7 +4,7 @@ Merge multiple VTT subtitle files into one file.  Each language will appear in a
 colour in video players that support different colours, such as [vlc](https://www.videolan.org/).
 
 
-![Preview](https://github.com/mikebridge/vttmerge/blob/master/img/preview.jpg?raw=true)
+![Preview](https://github.com/mikebridge/vttmerge/blob/master/img/preview.png?raw=true)
 
 ## Setup
 
